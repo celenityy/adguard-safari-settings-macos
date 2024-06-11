@@ -1,3 +1,3 @@
 # adguard-safari-settings
 
-My recommendations for the ultimate configuration of uBlock Origin :)
+My recommendations for the ultimate configuration of AdGuard on Safari on macOS :)
