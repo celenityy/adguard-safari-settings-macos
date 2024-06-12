@@ -74,6 +74,7 @@ Finally, I usually set the following to block the annoying banner on Old Reddit 
 
 Once you are done here, make sure to select **Save**.
 
+
 Now, here's where it gets fun, to the lists. I would generally recommend enabling most of the built-in filters, besides those under the `Language-specific` category & some of those under the `Other` category. These are all extremely carefully picked lists with strong coverage and minimal breakage, and I would recommend enabling them as follows for the best coverage possible.
 
 **Ad Blocking** -> ✅
@@ -147,7 +148,9 @@ Security:
 
 Other:
 
-**AdGuard DNS filter** -> ✅ *(Only enable this if you don't also have DNS content blocking with this list enabled in place, otherwise keep disabled)*
+`Filter unblocking search ads and self-promotion` -> ❌
+
+**AdGuard DNS filter** -> ✅ *(Only enable this if you don't also have DNS content blocking with this list enabled in place, otherwise keep this list disabled and re-disable the `Other` category)*
 
 
 **Custom** -> ✅
