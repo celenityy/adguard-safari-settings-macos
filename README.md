@@ -4,6 +4,8 @@ My recommendations for the ultimate configuration of AdGuard on Safari on macOS 
 
 **NOTE:** This is specifically tailored for AdGuard on Safari on macOS. For Safari on iOS, see [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-ios), & for AdGuard's extension on other platforms, see [here](https://codeberg.org/Magnesium1062/adguard-extension-settings).
 
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/adguard-safari-settings-macos), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/adguard-safari-settings-macos).
+
 # General
 
 **Launch AdGuard for Safari at Login** -> ✅ *(I personally don't enable this since I only rarely use Safari and would rather not have it run in the background if not needed, but if you do use Safari as your main browser, I would recommend enabling this)*
