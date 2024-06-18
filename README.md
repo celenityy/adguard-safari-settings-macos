@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate configuration of AdGuard on Safari on macOS :)
 
-**NOTE:** This is specifically tailored for AdGuard on Safari on macOS. For Safari on iOS, see [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-ios).
+**NOTE:** This is specifically tailored for AdGuard on Safari on macOS. For Safari on iOS, see [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-ios), & for AdGuard's extension on other platforms, see [here](https://codeberg.org/Magnesium1062/adguard-extension-settings).
 
 # General
 
@@ -195,7 +195,7 @@ Additionally, if you're fine with a little breakage, I would highly recommend:
 
 * Follow my recommendations for Safari [here](https://codeberg.org/Magnesium1062/better-safari-macos).
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `https://dns.quad9.net/dns-query`.
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Enable [Lockdown Mode](https://support.apple.com/105120).
 
