@@ -2,9 +2,9 @@
 
 My recommendations for the ultimate configuration of AdGuard on Safari on macOS :)
 
-**NOTE:** This is specifically tailored for AdGuard on Safari on macOS. For Safari on iOS, see [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-ios), & for AdGuard's extension on other platforms, see [here](https://codeberg.org/Magnesium1062/adguard-extension-settings).
+**NOTE:** This is specifically tailored for AdGuard on Safari on macOS. For Safari on iOS, see [here](https://codeberg.org/celenity/adguard-safari-settings-ios), & for AdGuard's extension on other platforms, see [here](https://codeberg.org/celenity/adguard-extension-settings).
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/adguard-safari-settings-macos), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/adguard-safari-settings-macos).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/adguard-safari-settings-macos), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/adguard-safari-settings-macos).
 
 # General
 
@@ -170,8 +170,6 @@ I would recommend adding the following custom filters:
 
 * ⭐️ Divested Fingerprinting Blocklist: `https://codeberg.org/divested/dnsbl/raw/branch/master/Fingerprinting.ubl`
 
-* ⭐️ pfBlockerNG MS-1: `https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw/7290e0681bcd07415420b5c80a253652fd13f840/MS-1`(Even if you use this list in i.e. AdGuard Home, you should also apply it here for an extra level of protection from these IPs outside of just the DNS level)
-
 * ⭐️ Yokoffing's `Block third party fonts` - `https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt`
 
 Additionally, if you don't have a DNS content blocking solution in place *(you should)*, or you just can't use the relevant list on your DNS blocker, you should import the following:
@@ -200,9 +198,9 @@ Additionally, if you're fine with a little breakage, I would highly recommend:
 
 # Additional recommendations
 
-* Follow my recommendations for Safari [here](https://codeberg.org/Magnesium1062/better-safari-macos).
+* Follow my recommendations for Safari [here](https://codeberg.org/celenity/better-safari-macos).
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Enable [Lockdown Mode](https://support.apple.com/105120).
 
