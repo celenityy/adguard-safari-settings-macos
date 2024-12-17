@@ -8,7 +8,7 @@ My recommendations for the ultimate configuration of AdGuard on Safari on macOS 
 
 # General
 
-**Launch AdGuard for Safari at Login** -> ✅ *(I personally don't enable this since I only rarely use Safari and would rather not have it run in the background if not needed, but if you do use Safari as your main browser, I would recommend enabling this)*
+**Launch AdGuard for Safari at Login** -> ✅ *(I personally don't enable this since I only rarely use Safari and would rather not have it run in the background if not needed, but if you do regularly use Safari, I would recommend turning it on)*
 
 **Notify for extension updates** -> ✅
 
@@ -32,7 +32,7 @@ First, I would highly recommend setting the following to protect against [IDN Ho
 
 * `xn--*$doc,popup,frame`
 
-I usually also set the following to always enforce blocking Google's Doubleclick & Google Analytics: ((Why?)[https://github.com/gorhill/uBlock/wiki/Privacy-stuff])
+I usually also set the following to always enforce blocking Google's Doubleclick & Google Analytics: [Why?](https://github.com/gorhill/uBlock/wiki/Privacy-stuff)
 
 * `||doubleclick.net^$important`
 
@@ -164,7 +164,7 @@ Other:
 
 Custom:
 
-**NOTE:** Due to unfortunate limitations from Apple, we can only add up to 150,000 rules here. This means we have to be careful with what we add, which is why you'll see some smaller & more optimized lists here vs. more comprehensive protection like I usually recommend. This is also a great example of one of the many reasons why it's important to have a good DNS content blocker (see `Additional recommendations` below), so we don't have to rely on the extension when unnecessary. 
+**NOTE:** Due to unfortunate limitations from Apple, we can only add up to 150,000 rules here. This means we have to be careful with what we add, which is why you'll see some smaller & more optimized lists here vs. more comprehensive protection like I usually recommend. This is also a great example of one of the many reasons why it's important to have a good DNS content blocker (see `Additional recommendations` below), so we don't have to rely on the extension when unnecessary.
 
 I would recommend adding the following custom filters:
 
@@ -206,4 +206,4 @@ Additionally, if you're fine with a little breakage, I would highly recommend:
 
 * Enable Safari's [Fraudulent Website Warning](https://www.apple.com/legal/privacy/data/en/safari/).
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
